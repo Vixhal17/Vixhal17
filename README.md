@@ -3,7 +3,7 @@
 <h3 align="center">Backend Engineer | Generative AI | Agentic AI | System Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;Designing+reliable+RAG+pipelines;Shipping+agentic+AI+applications;Seeking+Backend+%2F+AI-ML+internships" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+Generative+AI+And+Agentic+AI+Application;Designing+reliable+RAG+pipelines;Shipping+agentic+AI+applications;Seeking+Backend+%2F+AI-ML+internships" alt="Typing animation"/>
 </p>
 
 <p align="center">
