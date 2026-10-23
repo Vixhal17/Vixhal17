@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Vishal Chauhan
+<h1 align="center">👋 Hi, I'm Vishal Chauhan</h1>
 
 <h3 align="center">Backend Engineer | Generative AI | Agentic AI | System Design</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;Designing+reliable+RAG+pipelines;Shipping+agentic+AI+applications;Seeking+Backend+%2F+AI-ML+internships" alt="Typing animation"/>
+</p>
 
 <p align="center">
   Building scalable backend systems and intelligent AI applications.
@@ -24,11 +28,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[IP-SAKTI Sahayak](https://github.com/Vixhal17/IP-SAKTI_Sahayak)** — a RAG-based assistant for Indian intellectual property and Ayurvedic regulations.
+- 🔭 Currently building **[ResolveAI](https://github.com/Vixhal17/ResolveAI)**, an agentic RAG system for IT support built on LangGraph.
+- 🎓 B.Tech in Computer Science and Engineering at **NIET, Greater Noida** (2023 – 2027), **CGPA 9.00**.
 - 🌱 Currently learning **Generative AI, Agentic AI, and System Design**.
 - 🧠 Interested in **LLM applications, backend architecture, distributed systems, and AI agents**.
+- 💼 Looking for a **Software Engineering Internship** in Backend or AI/ML Engineering.
 - 💬 Ask me about **Node.js, Redis, REST APIs, RAG pipelines, and LLM Gateways**.
-- 👨‍💻 Explore my projects on **[GitHub](https://github.com/Vixhal17)**.
 - 📫 Reach me at **[vishal170305@gmail.com](mailto:vishal170305@gmail.com)**.
 
 ---
@@ -47,14 +52,21 @@
 
 ### 🤖 AI & Generative AI
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow"/>
-  <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white" alt="LangSmith"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
   <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white" alt="Mistral AI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=flat-square" alt="RAG"/>
+</p>
+
+### 🗄️ Vector Databases
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white" alt="ChromaDB"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -66,30 +78,32 @@
 
 ## 🌟 Featured Projects
 
-### 1. 🔀 LLMFlow — LLM Gateway
-**Node.js · Express · Redis · PostgreSQL · Docker**
+### 1. 🔀 LLMFlow: LLM Gateway
+**Node.js · Express · Redis · PostgreSQL · Ollama · NVIDIA Nemotron · Docker**
 
-- Built a unified API gateway for multiple LLM providers with automatic failover.
-- Implemented semantic caching using local embeddings to reuse responses for similar prompts.
-- Added Redis-based rate limiting, per-tenant API keys, and request analytics.
+- Built a unified API gateway for multiple LLM providers (NVIDIA Nemotron, Ollama/Llama 3.1) with automatic failover.
+- Implemented semantic caching using local embeddings (`nomic-embed-text`) so similar prompts reuse earlier responses instead of calling the LLM again.
+- Added Redis-based rate limiting, per-tenant API keys, and a PostgreSQL analytics dashboard tracking requests, cache hit rate, latency, and cost per provider.
+- Containerized the full stack with Docker Compose.
 
 🔗 [View Repository](https://github.com/Vixhal17/LLMFlow)
 
-### 2. ⚖️ IP-SAKTI Sahayak — Legal RAG Assistant
-**Python · FastAPI · Qdrant · BM25 · Groq · Mistral AI**
+### 2. ⚖️ IP-SAKTI Sahayak: Legal RAG Assistant
+**Python · FastAPI · React · Qdrant · BM25 · Groq · Mistral AI · SQLite**
 
-- Developed a RAG assistant for Indian intellectual property laws and international treaties.
-- Combined semantic search, BM25, Reciprocal Rank Fusion, and cross-encoder reranking.
-- Implemented jurisdiction-aware retrieval, LLM failover, and multilingual queries.
+- Developed a RAG assistant that answers questions on 17 Indian intellectual property statutes and international treaties, with citations.
+- Combined `bge-m3` semantic search, BM25, Reciprocal Rank Fusion, and cross-encoder reranking.
+- Implemented jurisdiction-aware retrieval (national vs. international law) and Groq → Mistral LLM failover.
+- Added a TKDL prior-art check to flag biopiracy risk, plus multilingual queries that keep statutory citations intact.
 
 🔗 [View Repository](https://github.com/Vixhal17/IP-SAKTI_Sahayak)
 
-### 3. 🤖 ResolveAI — Agentic RAG for IT Support
-**Python · FastAPI · LangGraph · Pinecone · Groq**
+### 3. 🤖 ResolveAI: Agentic RAG for IT Support
+**Python · FastAPI · LangGraph · Pinecone · Tavily · Groq · SQLite**
 
-- Built an AI agent that routes queries by intent and retrieves relevant IT runbooks.
-- Added query rewriting, retrieval grading, and web-search fallback.
-- Implemented an API-key-protected ingestion endpoint and audit logging.
+- Built a LangGraph agent that routes queries by intent, retrieves from runbooks in Pinecone, grades the results, and falls back to Tavily web search when needed.
+- Added query rewriting with a retry limit, returning an "insufficient evidence" response instead of guessing.
+- Implemented an API-key-protected ingestion endpoint (PDF, DOCX, MD, TXT), a SQLite audit log, and a web console showing live agent traces.
 
 🔗 [View Repository](https://github.com/Vixhal17/ResolveAI)
 
@@ -103,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixhal17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Vixhal17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
