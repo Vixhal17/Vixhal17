@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building scalable backend systems and Generative AI and Agentic AI applications.
+  Building Generative AI and Agentic AI applications.
   <br/>
   Passionate about distributed systems, RAG pipelines, and reliable AI engineering.
 </p>
