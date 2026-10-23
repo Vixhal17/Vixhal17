@@ -1,24 +1,135 @@
-<h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
-<h3 align="center">Backend & AI Engineer | Building Scalable APIs and RAG Systems</h3>
+# 👋 Hi, I'm Vishal Chauhan
 
-- 🔭 I’m currently working on [IP-SAKTI_Sahayak](https://github.com/Vixhal17/IP-SAKTI_Sahayak)
+<h3 align="center">Backend Engineer | Generative AI | Agentic AI | System Design</h3>
 
-- 🌱 I’m currently learning **Generative AI, Agentic AI, System Design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vixhal17](https://github.com/Vixhal17)
-
-- 💬 Ask me about **Node.js, Redis, RAG Pipelines, LLM Gateways**
-
-- 📫 How to reach me **vishal170305@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/vixhall_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vixhall_17/" height="30" width="40" /></a>
+<p align="center">
+  Building scalable backend systems and intelligent AI applications.
+  <br/>
+  Passionate about distributed systems, RAG pipelines, and reliable AI engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Vixhal17">
+    <img src="https://img.shields.io/badge/GitHub-Vixhal17-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:vishal170305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/vixhall_17/">
+    <img src="https://img.shields.io/badge/LeetCode-1600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixhal17&show_icons=true&locale=en&layout=compact" alt="vixhal17" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vixhal17&" alt="vixhal17" /></p>
+## 🚀 About Me
+
+- 🔭 Currently building **[IP-SAKTI Sahayak](https://github.com/Vixhal17/IP-SAKTI_Sahayak)** — a RAG-based assistant for Indian intellectual property and Ayurvedic regulations.
+- 🌱 Currently learning **Generative AI, Agentic AI, and System Design**.
+- 🧠 Interested in **LLM applications, backend architecture, distributed systems, and AI agents**.
+- 💬 Ask me about **Node.js, Redis, REST APIs, RAG pipelines, and LLM Gateways**.
+- 👨‍💻 Explore my projects on **[GitHub](https://github.com/Vixhal17)**.
+- 📫 Reach me at **[vishal170305@gmail.com](mailto:vishal170305@gmail.com)**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c" alt="C++, Python, JavaScript, C"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,mongodb,postgres,mysql,sqlite" alt="Backend and database technologies"/>
+</p>
+
+### 🤖 AI & Generative AI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white" alt="Mistral AI"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=flat-square" alt="RAG"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,grafana,nginx,react,html,css,tailwind" alt="Tools and platforms"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 1. 🔀 LLMFlow — LLM Gateway
+**Node.js · Express · Redis · PostgreSQL · Docker**
+
+- Built a unified API gateway for multiple LLM providers with automatic failover.
+- Implemented semantic caching using local embeddings to reuse responses for similar prompts.
+- Added Redis-based rate limiting, per-tenant API keys, and request analytics.
+
+🔗 [View Repository](https://github.com/Vixhal17/LLMFlow)
+
+### 2. ⚖️ IP-SAKTI Sahayak — Legal RAG Assistant
+**Python · FastAPI · Qdrant · BM25 · Groq · Mistral AI**
+
+- Developed a RAG assistant for Indian intellectual property laws and international treaties.
+- Combined semantic search, BM25, Reciprocal Rank Fusion, and cross-encoder reranking.
+- Implemented jurisdiction-aware retrieval, LLM failover, and multilingual queries.
+
+🔗 [View Repository](https://github.com/Vixhal17/IP-SAKTI_Sahayak)
+
+### 3. 🤖 ResolveAI — Agentic RAG for IT Support
+**Python · FastAPI · LangGraph · Pinecone · Groq**
+
+- Built an AI agent that routes queries by intent and retrieves relevant IT runbooks.
+- Added query rewriting, retrieval grading, and web-search fallback.
+- Implemented an API-key-protected ingestion endpoint and audit logging.
+
+🔗 [View Repository](https://github.com/Vixhal17/ResolveAI)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vixhal17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixhal17&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vixhal17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 💻 Solved **500+ DSA problems** on LeetCode.
+- 📈 Achieved a **1600+ LeetCode contest rating**.
+- 🏅 Selected for the college-level round of **Smart India Hackathon (SIH) 2026**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Vixhal17">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/vixhall_17/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:vishal170305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building systems that scale. Creating AI that solves real problems.</i>
+</p>
